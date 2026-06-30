@@ -59,7 +59,7 @@ useEffect(()=>{localStorage.setItem("todos", JSON.stringify(todoList));
 
       <div className='flex items-center mt-7 gap-2'>
         <img className='w-9' src={todo_icon} alt=""></img> 
-        <h1 className='text-3xl font-semibold'> TO-DO LIST</h1>
+        <h1 className='text-3xl font-semibold'> TICKY</h1>
       </div>
 
 
